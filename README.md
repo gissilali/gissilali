@@ -18,7 +18,7 @@ Here's a few things about me:
 - React
 - Node.js
 - Relational Databases
-- GIT,
--TypeScript,
--GraphQL
+- GIT
+- TypeScript
+- GraphQL
 
