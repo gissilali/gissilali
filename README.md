@@ -1,9 +1,5 @@
 ### Hi there 👋, I'm Silali a Full-Stack Engineer Based in Nairobi, Kenya.
-<a href="https://www.linkedin.com/in/gibson-silali/">
-  <img align="left" alt="Silali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br/>
-<br/>
+
 Here's a few things about me:
 
 - 🔭 I’m currently working on a SaaS platform for smart meter monitoring and utility billing at [HydroIQ](https://www.hydroiq.africa/). 
